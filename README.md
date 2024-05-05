@@ -22,9 +22,9 @@ Hi there! Welcome to my README. I'm Issa Al-Halabi, and this document serves as 
 Hello, I'm a Software Engineer passionate about creating user-friendly software. I believe in building apps and systems that work seamlessly for people, and I'm always excited to develop software that enhances users' lives.
 
 ## Skills & Expertise
-- **Technical Skills**: Node.js, React.js, MongoDB
+- **Technical Skills**: Node.js, React.js, Next.js, MongoDB, Postgres, Docker, AWS
 - **Soft Skills**: Communication, Leadership, Teamwork
-- **Domain Expertise**: Backend Development
+- **Domain Expertise**: Software & DevOps Engineer
 
 ## Projects
 I've worked on various projects that showcase my skills and interests. Some notable ones include:
